@@ -2,16 +2,18 @@
 
 ## Education
 
-## Work Experience
+Purdue University Global
+Master of Science in Data Analytics
+Concentration in AWS Cloud Technologies
+Apr 2024 - Oct 2025
 
-Sasol North America
+Purdue University Global
+Bachelor of Science in Analytics
+Jan 2020 - Apr 2024Jan 2020 - Apr 2024
+Grade: GPA 3.94 Summa Cum Laude
 
-Laboratory Supervisor-West Lab
-Jun 2017 - Sep 2019 
-Lake Charles, Louisiana 
 
-Coordinated and managed manpower by preparing work schedules, assigning specific job duties, and prioritizing workload. Hired, supervised, developed, and trained Lab technicians. Monitoring employees' productivity, providing constructive feedback, and coaching.
+## Projects
 
-Laboratory Superintendent-West Lab (Acting)
-Information liaison for commission activities for the new west laboratory building. Created West Laboratory contingency plans for a start-up, consisting of timeline, budget, prerequisites, pros, and cons of permission to use bench/hood space in our R&D facility to support unit start-up. Laboratory readiness supports UOI, LLDPE, LDPE, EOEG, and Cracker Unit#2.
+Predictive analytics on breast cancer survival
 
